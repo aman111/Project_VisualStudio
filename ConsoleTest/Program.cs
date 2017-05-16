@@ -10,7 +10,16 @@ namespace ConsoleTest
   {
     static void Main(string[] args)
     {
-      //Test Changes
+      //Test Changes new
+
+      string sdsd;
+
+      sdsd = "fdfsdf";
+
+
+
+
+
     }
   }
 }
